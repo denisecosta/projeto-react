@@ -1,0 +1,26 @@
+body{
+    background-color: #FF69B4;
+    color: #fff;
+    font-family: Oswald;
+    font-size: 1.4rem;
+    text-align: center;
+
+}
+
+h1, h2, h3 {
+    font-weight: 200;
+}
+
+h2, h3 {
+    margin: 0;
+}
+
+table{
+    width: 100%;
+}
+
+tbody {
+    font-size: 1.0rem;
+    text-align: left;
+
+}
